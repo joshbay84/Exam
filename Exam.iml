@@ -30,5 +30,6 @@
     <orderEntry type="library" name="Spring Web Services-2.0.2" level="project" />
     <orderEntry type="library" name="Spring Batch-2.2.6" level="project" />
     <orderEntry type="library" name="Spring MVC-4.1.2.RELEASE" level="project" />
+    <orderEntry type="library" name="org.springframework.data:spring-data-mongodb:1.6.1.RELEASE" level="project" />
   </component>
 </module>

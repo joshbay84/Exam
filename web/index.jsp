@@ -9,7 +9,7 @@
 <html>
   <head>
     <title></title>
-  </head>ª
+  </head>
   <body>
     Hello World. Modified file ag.
   </body>
